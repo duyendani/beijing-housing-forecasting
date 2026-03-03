@@ -20,7 +20,7 @@ The analysis integrates:
     * Quantified structural differences in growth rates across property age categories
     * Evaluated potential tax and policy-related impacts on price behavior
     * Built visual trend comparisons across districts and time periods
-    * -> This section focused on understanding long-term return stability and structural risk.
+   -> This section focused on understanding long-term return stability and structural risk.
 
 2. Housing Price Forecasting (2018–2020)
     Engineered features from historical transaction data
