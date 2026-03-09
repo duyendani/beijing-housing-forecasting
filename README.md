@@ -14,7 +14,7 @@ A data-driven study of Beijing housing price dynamics combining structural analy
     * Supervised machine learning for price forecasting
     * Investment risk–return interpretation
 
-## **My Contributions**
+## **My Contributions (Duyen Thanh Thao Nguyen)**
 1. Category C: Property Age & Policy Impact Analysis
     * Conducted comparative price appreciation analysis between older vs newer buildings
     * Quantified structural differences in growth rates across property age categories
@@ -32,23 +32,23 @@ A data-driven study of Beijing housing price dynamics combining structural analy
     * Interpreted forecast results in an investment-risk framework
    * The forecasting component emphasized model stability and interpretability rather than pure predictive accuracy.
 
-## **Technical Stack
+## **Technical Stack**
 * Python
 * Pandas, NumPy
 * Scikit-learn
 * Matplotlib / Seaborn
 * Time-Series & Regression Modeling
 
-## **Repository Structure
+## **Repository Structure**
 * predictive modeling.iypnd
 * category C_policy_age (2011-2017).ipynb
 * Project_Report.pdf 
 * Beijing_Housing_C1C2_Cleaned.xlsx
 
-## **Note: 
+## **Note:** 
 * The full Beijing Housing (cleaned version) excluded due to size limitations.
 
-## **Key Takeaways
+## **Key Takeaways**
 * Structural factors such as property age materially affect long-term appreciation.
 * Predictive modeling provides short-term directional insight but must be interpreted within macro-policy context.
 * Combining statistical modeling with business reasoning strengthens investment decisions.
